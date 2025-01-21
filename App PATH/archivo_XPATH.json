@@ -1,0 +1,31 @@
+{
+    "XPATH numero 3": [
+        "//a[@href='catalogue/category/books/travel_2/index.html']",
+        "//a[@href='../paranormal_24/index.html']",
+        "//a[@href='../../../vampire-knight-vol-1-vampire-knight-1_93/index.html' and @title='Vampire Knight, Vol. 1 (Vampire Knight #1)']"
+    ],
+    "XPATH numero 1": [
+        "//a[@href='catalogue/category/books/historical-fiction_4/index.html']",
+        "//a[@href='../../../a-flight-of-arrows-the-pathfinders-2_876/index.html' and @title='A Flight of Arrows (The Pathfinders #2)']",
+        "//a[@href='../category/books/historical-fiction_4/index.html']",
+        "//a[@href='../../../tipping-the-velvet_999/index.html' and @title='Tipping the Velvet']",
+        "//a[@href='../category/books/historical-fiction_4/index.html']",
+        "//a[@href='../romance_8/index.html']",
+        "//a[@href='../../../black-dust_976/index.html' and @title='Black Dust']"
+    ],
+    "XPATH numero 2": [
+        "//a[@href='catalogue/category/books/historical-fiction_4/index.html']",
+        "//a[@href='../../../a-flight-of-arrows-the-pathfinders-2_876/index.html' and @title='A Flight of Arrows (The Pathfinders #2)']",
+        "//a[@href='../category/books_1/index.html']",
+        "//a[@href='../books/science_22/index.html']"
+    ],
+    "XPATH numero 4": [
+        "//a[@href='catalogue/category/books/fantasy_19/index.html']",
+        "//a[@href='../../../saga-volume-6-saga-collected-editions-6_924/index.html' and @title='Saga, Volume 6 (Saga (Collected Editions) #6)']"
+    ],
+    "XPATH numero 5": [
+        "//a[@href='catalogue/category/books/classics_6/index.html']",
+        "//a[@href='../../../the-hound-of-the-baskervilles-sherlock-holmes-5_348/index.html' and @title='The Hound of the Baskervilles (Sherlock Holmes #5)']",
+        "//a[@href='../category/books/classics_6/index.html']"
+    ]
+}

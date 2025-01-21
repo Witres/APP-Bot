@@ -1,0 +1,82 @@
+{
+    "PATH numero 1": {
+        "url": "https://books.toscrape.com/",
+        "lista_XPATH": [
+            "//a[@href='catalogue/category/books/science-fiction_16/index.html']",
+            "//a[@href='../../../join_902/index.html' and @title='Join']",
+            "//a[@href='../../index.html']"
+        ]
+    },
+    "directo ibai": {
+        "url": "https://www.twitch.tv/ibai",
+        "descripcion": "\n",
+        "lista_XPATH": ""
+    },
+    "youtube": {
+        "url": "https://www.youtube.com/",
+        "descripcion": "pagina frontal de youtube\n",
+        "lista_XPATH": ""
+    },
+    "ASEGAS": {
+        "url": "dfgtdtfghdt",
+        "descripcion": "drdr\n",
+        "lista_XPATH": ""
+    },
+    "futjtd": {
+        "url": "fgfyt",
+        "descripcion": "fgykirtf\n",
+        "lista_XPATH": ""
+    },
+    "1212114": {
+        "url": "3553h5h456ij",
+        "descripcion": "sd\n",
+        "lista_XPATH": ""
+    },
+    "nuevos libros": {
+        "url": "https://books.toscrape.com/",
+        "descripcion": "para probar, why not?\n",
+        "lista_XPATH": [
+            "//a[@href='catalogue/category/books/music_14/index.html']",
+            "//a[@href='../../../rip-it-up-and-start-again_986/index.html' and @title='Rip it Up and Start Again']"
+        ]
+    },
+    "PATH numero 8": {
+        "url": "https://books.toscrape.com/",
+        "lista_XPATH": [
+            "//a[@href='catalogue/category/books/romance_8/index.html']",
+            "//a[@href='../../../chase-me-paris-nights-2_977/index.html' and @title='Chase Me (Paris Nights #2)']",
+            "//a[@href='../category/books_1/index.html']"
+        ]
+    },
+    "PATH numero 9": {
+        "url": "https://books.toscrape.com/",
+        "lista_XPATH": [
+            "//a[@href='catalogue/category/books/mystery_3/index.html']",
+            "//a[@href='../../../sharp-objects_997/index.html' and @title='Sharp Objects']"
+        ]
+    },
+    "jyhgu": {
+        "url": "https://books.toscrape.com/",
+        "descripcion": "kujyuoio\n",
+        "lista_XPATH": ""
+    },
+    "er yizu": {
+        "url": "https://books.toscrape.com/",
+        "descripcion": "8oi0ojkou\n",
+        "lista_XPATH": [
+            "//a[@href='catalogue/category/books/sequential-art_5/index.html']",
+            "//a[@href='../../../this-one-summer_947/index.html' and @title='This One Summer']"
+        ]
+    },
+    "mami": {
+        "url": "https://books.toscrape.com/",
+        "descripcion": "rgoditrhffxyj\n",
+        "lista_XPATH": [
+            "//a[@href='catalogue/category/books/romance_8/index.html']",
+            "//a[@href='../../../black-dust_976/index.html' and @title='Black Dust']",
+            "//a[@href='../category/books_1/index.html']",
+            "//a[@href='../books/mystery_3/index.html']",
+            "//a[@href='../../../sharp-objects_997/index.html' and @title='Sharp Objects']"
+        ]
+    }
+}
